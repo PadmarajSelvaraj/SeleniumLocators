@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 
-public class Hyperlinks  {
+public class HyperlinksTest  {
 	
 	@Test
 	public void HyperlinkOperation() {
