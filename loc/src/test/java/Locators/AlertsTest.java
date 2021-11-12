@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Alerts {
+public class AlertsTest {
 
 	@Test
 	public void AlertOperations() throws InterruptedException {
