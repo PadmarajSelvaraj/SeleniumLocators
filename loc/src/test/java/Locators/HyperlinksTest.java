@@ -18,8 +18,8 @@ public class HyperlinksTest  {
 	@Test
 	public void HyperlinkOperation() {
 		
-		WebDriverManager.chromedriver().setup(); 
-		
+		WebDriverManager.firefoxdriver().setup(); 
+		webetesting
 		WebDriver driver = new ChromeDriver();
 		
 		
