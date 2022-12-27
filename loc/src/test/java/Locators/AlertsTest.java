@@ -75,6 +75,8 @@ public class AlertsTest {
         Thread.sleep(5000);
         driver.findElement(By.xpath("/html/body/div[2]/div/div[2]/div/button")).click();
         
+        
+        // comments added
 		
         
 		}
