@@ -26,6 +26,7 @@ public class HyperlinksTest  {
 		
 		driver.get("http://leafground.com/home.html");
 		
+                driver.manage().window().maximize();
 		
 		driver.findElement(By.xpath("//img[@class ='wp-categories-icon svg-image']/following::h5[2]")).click();
 		//click link as linktext
